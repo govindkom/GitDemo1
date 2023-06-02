@@ -16,6 +16,10 @@ public class BasicCommandProgram {
 		WebDriver driver= new ChromeDriver();
 		
 		driver.get("https://www.google.co.in/");
+		System.out.println("this is mesage1");
+		System.out.println("this is mesage2");
+		System.out.println("this is mesage3");
+		
 	
 	}
 
